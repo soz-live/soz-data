@@ -4,7 +4,7 @@
 Data files for use in **SOZ**.
 
 > Note:  
-> The **SOZ-FILES** repo must be loaded to use this functionality.  
+> - The **SOZ-FILES** repo must be loaded to use this functionality.  
 
 
 ## File Formats
@@ -18,8 +18,8 @@ These are **SOZ** objects stored line by line in a file format with the ability 
 They are imported into **SOZ** using the **I-SOZ** command.
 
 > Note:  
-> As these files only store the arguments for each object they are an extremely compact file format.  
-> While being in text format - they are still easy to read and even edit in a text editor.  
+> - As these files only store the arguments for each object they are an extremely compact file format.  
+> - While being in text format - they are still easy to read and even edit in a text editor.  
 
 ### CSV Array Files
 
@@ -28,7 +28,7 @@ These are **SOZ** objects stored in CSV format with the ability to reference pre
 They are imported into **SOZ** using the **I-ARRAY** command.
 
 > Note:  
-> The heading for CSV Array files is formatted with surrounding "  
+> - The heading for CSV Array files is formatted with surrounding "  
 
 ### CSV Files
 
@@ -37,4 +37,4 @@ These are plain CSV files stored in a format for a specific Class, eg: SZCEShape
 They are imported into **SOZ** using the **I-CSV** command.
 
 > Note:  
-> The heading for CSV files is formatted with surrounding "  
+> - The heading for CSV files is formatted with surrounding "  
