@@ -30,11 +30,11 @@ They are imported into **SOZ** using the **I-ARRAY** command.
 > Note:  
 > - The heading for CSV Array files is formatted with surrounding "  
 
-### CSV Files
+### CSV Class Files
 
 These are plain CSV files stored in a format for a specific Class, eg: SZCEShape-CPurlin.
 
-They are imported into **SOZ** using the **I-CSV** command.
+They are imported into **SOZ** using the **I-CLASS** command.
 
 > Note:  
 > - The heading for CSV files is formatted with surrounding "  
