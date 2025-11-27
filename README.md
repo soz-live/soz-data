@@ -11,7 +11,7 @@ Data files for use in **SOZ**.
 
 These directories contain three types of data files for use in **SOZ**.
 
-### DAT Files
+### SOZFiles - *.DAT 
 
 These are **SOZ** objects stored line by line in a file format with the ability to reference preceeding objects using an ID.
 
@@ -21,7 +21,7 @@ They are imported into **SOZ** using the **I-SOZ** command.
 > - As these files only store the arguments for each object they are an extremely compact file format.  
 > - While being in text format - they are still easy to read and even edit in a text editor.  
 
-### CSV Array Files
+### CSVArray Files *.CSV
 
 These are **SOZ** objects stored in CSV format with the ability to reference preceeding objects using an ID.
 
@@ -30,7 +30,7 @@ They are imported into **SOZ** using the **I-ARRAY** command.
 > Note:  
 > - The heading for CSV Array files is formatted with surrounding "  
 
-### CSV Class Files
+### Class Files *.CSV
 
 These are plain CSV files stored in a format for a specific Class, eg: SZCEShape-CPurlin.
 
