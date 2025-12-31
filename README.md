@@ -1,7 +1,7 @@
 # SOZ-DATA
 
 
-Data files for use in **SOZ**.
+Data files for use in **SOZ-LIVE**.
 
 > Note:  
 > - The **SOZ-FILES** repo must be loaded to use this functionality.  
@@ -9,13 +9,13 @@ Data files for use in **SOZ**.
 
 ## File Formats
 
-These directories contain three types of data files for use in **SOZ**.
+These directories contain three types of data files for use in **SOZ-LIVE**.
 
 ### SOZFiles - *.DAT 
 
 These are **SOZ** objects stored line by line in a file format with the ability to reference preceeding objects using an ID.
 
-They are imported into **SOZ** using the **I-SOZ** command.
+They are imported into **SOZ-LIVE** using the **I-SOZ** command.
 
 > Note:  
 > - As these files only store the arguments for each object they are an extremely compact file format.  
@@ -25,16 +25,16 @@ They are imported into **SOZ** using the **I-SOZ** command.
 
 These are **SOZ** objects stored in CSV format with the ability to reference preceeding objects using an ID.
 
-They are imported into **SOZ** using the **I-ARRAY** command.
+They are imported into **SOZ-LIVE** using the **I-ARRAY** command.
 
 > Note:  
-> - The heading for CSV Array files is formatted with surrounding "  
+> - The headings for CSV Array files is formatted with surrounding "  
 
 ### Class Files *.CSV
 
 These are plain CSV files stored in a format for a specific Class, eg: SZCEShape-CPurlin.
 
-They are imported into **SOZ** using the **I-CLASS** command.
+They are imported into **SOZ-LIVE** using the **I-CLASS** command.
 
 > Note:  
-> - The heading for CSV files is formatted with surrounding "  
+> - The headings for CSV files is formatted with surrounding "  
