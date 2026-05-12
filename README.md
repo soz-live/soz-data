@@ -36,5 +36,3 @@ These are plain CSV files stored in a format for a specific Class, eg: SZCEShape
 
 They are imported into **SOZ-LIVE** using the **I-CLASS** command.
 
-> Note:  
-> - The headings for CSV files is formatted with surrounding "  
