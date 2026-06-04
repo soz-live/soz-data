@@ -21,6 +21,7 @@ They are imported into **SOZ-LIVE** using the **I-SOZ** command.
 > - As these files only store the arguments for each object they are an extremely compact file format.  
 > - While being in text format - they are still easy to read and even edit in a text editor.  
 
+
 ### CSVArray Files *.CSV
 
 These are **SOZ** objects stored in CSV format with the ability to reference preceeding objects using an ID.
@@ -28,7 +29,7 @@ These are **SOZ** objects stored in CSV format with the ability to reference pre
 They are imported into **SOZ-LIVE** using the **I-ARRAY** command.
 
 > Note:  
-> - The headings for CSV Array files is formatted with surrounding "  
+> - The headings for CSV Array files are formatted with surrounding "  
 
 ### Class Files *.CSV
 
